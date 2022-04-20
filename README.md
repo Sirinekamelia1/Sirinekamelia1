@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sirine_kamelia.
+- 👋 Hi, I’m @Sirine_kamelia i study bioinformatics.
 - 👀 I’m interested in web development, web design and Artificial Intelligence.
 - 🌱 I’m currently learning HTML/CSS , python.
 - 💞️ I’m looking to collaborate on --> still dk yet.
